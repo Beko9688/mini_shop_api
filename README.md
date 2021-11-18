@@ -1,2 +1,3 @@
 # mini_shop_api
-mini shop api недоработано до конца
+mini shop api недоработано до конца корзина
+ааа
